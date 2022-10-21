@@ -1,7 +1,7 @@
 <h1 align="center">Wassup 👋</h1>
 <h3 align="center"> Student. 18 YO.</h3>
 
-I do fun projects w/ friends.
+<h4> I do fun projects w/ friends. </h4>
 
 ##### SKILLS:
 <img src='https://simpleicons.org/icons/csharp.svg' alt='CSharp' height='40' title='C#'><img src='https://simpleicons.org/icons/cplusplus.svg' alt='C++' height='40' title='C++'><img src='https://simpleicons.org/icons/html5.svg' alt='HTML' height='40' title='HTML 5'><img src='https://simpleicons.org/icons/css3.svg' alt='CSS 3' height='40' title='CSS 3'>
