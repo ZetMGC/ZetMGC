@@ -1,6 +1,6 @@
 ### Wassup 👋
 
-- ⚡ Student
+- ⚡ Student. 18 YO
 
 <!--
 **ZetMGC/ZetMGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
