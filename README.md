@@ -1,4 +1,4 @@
-### <h1>Wassup 👋</h1>
+### <h1 align="center">Wassup 👋</h1>
 #### Student. 18 YO.
 
 I do fun projects w/ friends.
