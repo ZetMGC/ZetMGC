@@ -1,5 +1,5 @@
-### <h1 align="center">Wassup 👋</h1>
-#### Student. 18 YO.
+<h1 align="center">Wassup 👋</h1>
+<h3 align="center"> Student. 18 YO.</h3>
 
 I do fun projects w/ friends.
 
