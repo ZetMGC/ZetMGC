@@ -1,5 +1,5 @@
   <div id="header" align="center">
-  <img src="https://tenor.com/ru/view/jojo-jojos-bizarre-adventure-jotaro-kujo-jojo-part6-stone-ocean-gif-22624124" width="500"/>
+  <img src="[https://tenor.com/ru/view/jojo-jojos-bizarre-adventure-jotaro-kujo-jojo-part6-stone-ocean-gif-22624124](https://media1.tenor.com/m/XRGgi7Bh8ukAAAAC/jojo-jojos-bizarre-adventure.gif)" width="500"/>
   
 </div>
 
