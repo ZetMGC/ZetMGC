@@ -1,5 +1,5 @@
   <div id="header" align="center">
-  <img src="[https://gifdb.com/images/high/dope-anime-girl-my-dress-up-darling-xnfq5yf54phnr8tk.webp](https://tenor.com/ru/view/jojo-jojos-bizarre-adventure-jotaro-kujo-jojo-part6-stone-ocean-gif-22624124)" width="500"/>
+  <img src="https://tenor.com/ru/view/jojo-jojos-bizarre-adventure-jotaro-kujo-jojo-part6-stone-ocean-gif-22624124" width="500"/>
   
 </div>
 
