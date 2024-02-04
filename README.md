@@ -1,5 +1,7 @@
-# Wassup 👋
-<br>Student 19 YO
+  <div id="header" align="center">
+
+  <div class="tenor-gif-embed" data-postid="22624124" data-share-method="host" data-aspect-ratio="1.82857" data-width="100%"><a href="https://tenor.com/view/jojo-jojos-bizarre-adventure-jotaro-kujo-jojo-part6-stone-ocean-gif-22624124">Jojo Jojos Bizarre Adventure GIF</a>from <a href="https://tenor.com/search/jojo-gifs">Jojo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+</div>
 
 
 ## 🌐 Socials:
